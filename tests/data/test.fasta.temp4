@@ -1,0 +1,5 @@
+>test_seq1 Simple sequence with mono-nucleotide repeat		9	20	12	A27
+>test_seq2 Simple sequence with di-nucleotide repeat		9	20	6	AT26
+>test_seq3 Simple sequence with tri-nucleotide repeat		7	24	6	CGA27
+>test_seq5 Simple sequence with penta-nucleotide repeat		9	33	5	ACGTT40
+>test_seq7 Simple sequence with overlapping repeats		5	10	6	A32
