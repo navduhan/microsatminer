@@ -92,7 +92,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-Naveen Duhan (naveen.duhan@usu.edu)
+Naveen Duhan (naveen.duhan@outlook.com)
 
 ## Citation
 
@@ -100,5 +100,5 @@ If you use MicroSatMiner in your research, please cite:
 
 ```
 Duhan, N. (2024). MicroSatMiner: A Perl tool for efficient microsatellite detection.
-GitHub repository: https://github.com/yourusername/microsatminer
+GitHub repository: https://github.com/navduhan/microsatminer
 ``` 
