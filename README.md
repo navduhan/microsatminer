@@ -17,7 +17,7 @@ MicroSatMiner is a Perl-based tool for detecting Simple Sequence Repeats (SSRs) 
 No installation is required. Simply clone the repository and ensure you have Perl installed on your system:
 
 ```bash
-git clone https://github.com/yourusername/microsatminer.git
+git clone https://github.com/navduhan/microsatminer.git
 cd microsatminer
 chmod +x MicroSatMiner.pl
 ```

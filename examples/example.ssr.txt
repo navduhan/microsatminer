@@ -1,0 +1,8 @@
+ID	Seq_Length	Start	End	Repeat_number	Motif	Type
+0
+test_seq1 Simple sequence with mono-nucleotide repeat	29	9	22	14	A	mono
+test_seq2 Simple sequence with di-nucleotide repeat	28	9	22	7	AT	di
+test_seq3 Simple sequence with tri-nucleotide repeat	30	7	27	7	CGA	tri
+test_seq4 Simple sequence with tetra-nucleotide repeat	35	9	28	5	ACGT	tetra
+test_seq5 Simple sequence with penta-nucleotide repeat	50	9	43	7	ACGTT	penta
+test_seq6 Simple sequence with hexa-nucleotide repeat	45	9	38	5	ACGTAC	hexa
